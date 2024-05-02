@@ -1,7 +1,7 @@
 %% Init falling ball simulation
 % sign convention [+] up 
 
-%% Model paramters
+%% Model Parameters Definition
 Cd  = 0.47;         % Drag coefficient[-]
 rho = 1.293;        % Density of the fluid around the ball [kg/m3]
 r   = 0.05;         % Radius of the ball [m]

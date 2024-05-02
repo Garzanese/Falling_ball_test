@@ -18,7 +18,7 @@ end
 if isfile('parameters.m')
     run('parameters.m');
 else
-    error('parameter fils is missing');
+    error('parameter files is missing');
 end
 
 %% Check if the needed parameters are defined
